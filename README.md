@@ -14,13 +14,7 @@ Instale as dependências iniciando o temrinal no diretório do projeto, rode o c
 pip install -r requirements.txt
 ```
 
-# Adicione as imagens a serem comparadas na pasta Imagens_comparar
-
-Images/
- ├── Imagens_comparar/
- │       imagem1.jpg
- │       imagem2.jpg
- └── Comparacao/
+- Adicione as imagens a serem comparadas na pasta **Imagens_comparar**
 
 Por fim execute o comando abaixo para executar a aplicação:
 ```bash
